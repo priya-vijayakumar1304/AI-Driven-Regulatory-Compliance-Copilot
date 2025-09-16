@@ -4,3 +4,8 @@ langchain
 langchain_community
 langchain_groq
 langchain_core
+pymupdf
+langchain_huggingface
+langchain_chroma
+sentence-transformers
+pdfplumber
